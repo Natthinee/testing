@@ -1,0 +1,9 @@
+{
+    "place": ["course"],
+    "description": ["course","date","month","year"],
+    "time": ["course"],
+    "event": ["date","month","year"],
+    "stats": ["course"],
+    "slide": ["course","date","month","year"],
+    "tutor": ["course"]
+}
