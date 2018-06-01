@@ -1,12 +1,12 @@
 import pyrebase
 
 config = {
-    "apiKey": "SECRET",
-    "authDomain": "SECRET",
-    "databaseURL": "SECRET",
-    "projectId": "SECRET",
-    "storageBucket": "SECRET",
-    "messagingSenderId": "SECRET"
+    "apiKey": "AIzaSyCniCIZZ7OOxroIhwIta5tErt_-oKeFHXE",
+    "authDomain": "godaun-4e6d1.firebaseapp.com",
+    "databaseURL": "https://godaun-4e6d1.firebaseio.com",
+    "projectId": "godaun-4e6d1",
+    "storageBucket": "godaun-4e6d1.appspot.com",
+    "messagingSenderId": "93313105467"
 }
 
 firebase = pyrebase.initialize_app(config)
